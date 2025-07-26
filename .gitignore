@@ -416,3 +416,17 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Build artifacts
+bin/
+obj/
+# Visual Studio files
+.vs/
+*.user
+# MAUI-specific
+*.keystore
+*.apk
+*.msix
+# Temporary files
+*.tmp
+*.log
